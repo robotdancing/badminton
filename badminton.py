@@ -13,10 +13,10 @@ import requests
 import pickle
 import json
 
-LOGIN_TIME_HOUR = 14
-LOGIN_TIME_MINUTE = 51
-BOOKING_TIME_HOUR = 14
-BOOKING_TIME_MINUTE = 52
+LOGIN_TIME_HOUR = 15
+LOGIN_TIME_MINUTE = 23
+BOOKING_TIME_HOUR = 15
+BOOKING_TIME_MINUTE = 25
 
 chrome_driver_path = "F:\Coding\python\chromedriver"
 driver = webdriver.Chrome(chrome_driver_path)
